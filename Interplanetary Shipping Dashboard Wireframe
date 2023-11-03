@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T21:02:13.852Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="2Xl3PoQgfLoOnrnxBvoU" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T21:04:21.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="PQFJ9ToskfRvSqvaiF_n" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1288" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -99,6 +99,11 @@
         </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-53" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#12AAB5;fontSize=12;shadow=0;align=left;opacity=70;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
           <mxGeometry x="159.46000744817312" y="1.9895218515816695" width="30.413373608639876" height="62.08966111811127" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-121" value="&lt;div&gt;Ship Diagnostics&lt;/div&gt;" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="919.24" y="502.63" width="210" height="180" as="geometry">
+            <mxRectangle x="111" y="502.63" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
