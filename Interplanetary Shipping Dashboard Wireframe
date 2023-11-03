@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T17:19:17.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="BIfw8Thae7X0NkBvjsr5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T17:27:04.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="XvLyWVgWHpGEIyHipNhb" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1214" dy="1016" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="607" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -19,9 +19,6 @@
         <mxCell id="dfLldeOKMUmXHVuHGa-q-19" value="&lt;div&gt;Rear Right&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990.5300000000001" y="418.51" width="66.31" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-23" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_allstates_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="1060.71" y="502.63" width="66.67" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-27" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="1">
           <mxGeometry x="1070" y="307" width="57.38" height="57.38" as="geometry" />
         </mxCell>
@@ -33,6 +30,36 @@
         </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-31" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="920" y="107.38" width="207.38" height="99.14" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-54" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="503" width="241.67000000000002" height="150.79000000000002" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-44" value="Platinum&lt;br&gt;Pt" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#10739E;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=12;shadow=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="8" y="35.66666666666667" width="35" height="71.33333333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-45" value="Gold&lt;br&gt;Au" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=12;shadow=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="62.75" y="17.833333333333336" width="35" height="89.16666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-47" value="&lt;div&gt;Silver&lt;/div&gt;&lt;div&gt;Ag&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#23445D;strokeColor=none;fontStyle=1;fontColor=#23445D;fontSize=12;shadow=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="117.25" y="62.41666666666667" width="35" height="44.583333333333336" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-48" value="Palladium&lt;br&gt;Pd" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#12AAB5;strokeColor=none;fontStyle=1;fontColor=#12AAB5;fontSize=12;shadow=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="172" y="44.583333333333336" width="35" height="62.41666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-49" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#10739E;fontSize=12;shadow=0;align=left;opacity=70;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="8" width="35" height="53.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-50" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=12;shadow=0;align=left;opacity=70;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="62.75" width="35" height="35.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-52" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#23445D;fontSize=12;shadow=0;align=left;opacity=70;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="117.25" width="35" height="80.25" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-53" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#12AAB5;fontSize=12;shadow=0;align=left;opacity=70;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="172" width="35" height="62.41666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-23" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_allstates_128x128.png" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-54">
+          <mxGeometry x="970" y="0.79" width="49" height="109.21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
