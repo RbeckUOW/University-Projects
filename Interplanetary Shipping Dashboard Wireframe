@@ -1,23 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T21:59:40.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="rSeBCAGL-quz98hYmq5e" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T22:01:37.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="t-WIt2rJoAr55Ni-Hd6d" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1147" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="dfLldeOKMUmXHVuHGa-q-1" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.ipad13inch;strokeColor=#c0c0c0;rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="184" y="-183" width="867.5" height="1233" as="geometry" />
-        </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="360" width="209" height="142.63" as="geometry" />
-        </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-17" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.videoPlayer;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;textColor=#666666;fillColor2=#008cff;barHeight=30;barPos=20;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="360" width="209.38" height="142.63" as="geometry" />
-        </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-18" value="Rear Left" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="184.69" y="418.51" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-19" value="&lt;div&gt;Rear Right&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="992.5300000000001" y="418.5" width="66.31" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-93" value="Messages" style="swimlane;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="111" y="52" width="209" height="308" as="geometry">
@@ -162,6 +150,16 @@
         <mxCell id="dfLldeOKMUmXHVuHGa-q-183" value="Rear View" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="517.75" y="50" width="200" height="200" as="geometry">
             <mxRectangle x="517.75" y="50" width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-184" value="&lt;div&gt;Rear Left&lt;/div&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="360" width="209" height="140" as="geometry">
+            <mxRectangle x="111" y="360" width="40" height="80" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-185" value="Rear Right" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="918.4800000000002" y="360" width="210.76" height="140" as="geometry">
+            <mxRectangle x="1089.24" y="410" width="40" height="90" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
