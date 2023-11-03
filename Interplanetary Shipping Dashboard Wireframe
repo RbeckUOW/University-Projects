@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T22:01:37.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="t-WIt2rJoAr55Ni-Hd6d" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T22:02:24.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="j5-1Bu60gF_g3ZGsU0d8" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="983" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -157,10 +157,16 @@
             <mxRectangle x="111" y="360" width="40" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-186" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-184">
+          <mxGeometry x="79" y="58" width="52" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-185" value="Rear Right" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="918.4800000000002" y="360" width="210.76" height="140" as="geometry">
-            <mxRectangle x="1089.24" y="410" width="40" height="90" as="alternateBounds" />
+          <mxGeometry x="918.48" y="360" width="210.76" height="140" as="geometry">
+            <mxRectangle x="1089.2400000000002" y="410" width="40" height="90" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-187" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.video_camera;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-185">
+          <mxGeometry x="80.63999999999976" y="61" width="52" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
