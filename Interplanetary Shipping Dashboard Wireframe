@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T17:11:32.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Om_KCN69A_cLCZyo24gJ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T17:16:10.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="hi6oxLJBe99eo3qPlwDK" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1032" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -19,14 +19,11 @@
         <mxCell id="dfLldeOKMUmXHVuHGa-q-19" value="&lt;div&gt;Rear Right&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="990.5300000000001" y="418.51" width="66.31" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="159" y="608" width="40" height="167" as="geometry" />
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-23" value="" style="image;html=1;image=img/lib/clip_art/general/Battery_allstates_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="66.67" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-3" value="&lt;div&gt;Fuel&lt;/div&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=12;shadow=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-21">
-          <mxGeometry x="-43" y="-524" width="40" height="137" as="geometry" />
-        </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-8" value="" style="verticalLabelPosition=top;verticalAlign=bottom;html=1;shape=mxgraph.infographic.cylinder;isoAngle=15;fillColor=#CCCCCC;strokeColor=none;fontStyle=1;fontColor=#F2931E;fontSize=12;shadow=0;align=left;opacity=70;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-21">
-          <mxGeometry x="-43" y="-553" width="40" height="50" as="geometry" />
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-24" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+          <mxGeometry x="960" y="50" width="167.38" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
