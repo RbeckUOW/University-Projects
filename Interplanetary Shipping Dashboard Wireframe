@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T21:59:26.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TIaXkVoqBGDsoB79RhSB" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T21:59:40.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="rSeBCAGL-quz98hYmq5e" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
-    <mxGraphModel dx="1474" dy="1234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -159,9 +159,9 @@
         <mxCell id="dfLldeOKMUmXHVuHGa-q-181" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-180">
           <mxGeometry x="514.25" y="82.87" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfLldeOKMUmXHVuHGa-q-183" value="Rear View" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="517.75" y="50" width="100" height="30" as="geometry">
-            <mxRectangle x="517.75" y="50" width="200" height="200" as="alternateBounds" />
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-183" value="Rear View" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517.75" y="50" width="200" height="200" as="geometry">
+            <mxRectangle x="517.75" y="50" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
