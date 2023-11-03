@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T21:23:28.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="QtVJygk8cy5wBQg7pwb1" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T21:24:32.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="CKMVgrYz-sdUjJyFn8gf" version="22.0.8" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1288" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -125,6 +125,12 @@
         </mxCell>
         <mxCell id="dfLldeOKMUmXHVuHGa-q-147" value="&lt;div&gt;Speed&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-145">
           <mxGeometry x="74.62" y="43.173780964797906" width="60" height="23.823633993125515" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-148" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/freecns-cumulus/32/519790-100_Pressure_Reading-128.png" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-121">
+          <mxGeometry x="69.38" y="90" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dfLldeOKMUmXHVuHGa-q-149" value="Temp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dfLldeOKMUmXHVuHGa-q-121">
+          <mxGeometry x="74.38" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
